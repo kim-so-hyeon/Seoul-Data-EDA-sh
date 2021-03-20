@@ -13,7 +13,7 @@
 
 &nbsp;
 
-## 1. 문화·상업·유흥시설 EDA
+### 1. 문화·상업·유흥시설
 
 - 문화시설 : 영화관 수, 민간·공공 공연장, 자치구별 인구수 → 자치구별 인구 대비 문화시설 수 최종 칼럼 도출
 - 상업시설 : 교육 서비스업, 도매 및 소매업, 숙박 및 음식점업, 공공행정 국방 및 사회보장 행정, 자치구별 인구수 → 자치구별 인구 대비 상업시설 수 최종 칼럼 도출
@@ -21,7 +21,7 @@
 
  &nbsp;
 
-### [EDA (1)](https://github.com/kim-so-hyeon/Naver-Shopping-Title-Recommendation-Service/blob/develop/NshoppingDBCrawler_hi.py)
+### [EDA과정](https://github.com/kim-so-hyeon/Naver-Shopping-Title-Recommendation-Service/blob/develop/NshoppingDBCrawler_hi.py)
 - 수집된 데이터의 null값은 존재하지 않음
 ![image](https://user-images.githubusercontent.com/64175848/111867760-6a482480-89b9-11eb-8e8e-025c70390816.png)
 
