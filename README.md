@@ -26,7 +26,6 @@
 - 수집된 데이터의 null값은 존재하지 않음
 ![image](https://user-images.githubusercontent.com/64175848/111867760-6a482480-89b9-11eb-8e8e-025c70390816.png)
 
-- 3가지 주제의 연도가 동일
 - 주제&연도별 데이터 경향성 파악
 ![image](https://user-images.githubusercontent.com/64175848/111867603-80a1b080-89b8-11eb-8768-72c5ce8092b0.png)
 
