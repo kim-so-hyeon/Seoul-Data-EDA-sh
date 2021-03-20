@@ -16,13 +16,16 @@
 ---
 ## 1. 문화·상업·유흥시설 EDA
 
-- 문화시설 : 영화관 수, 공공 공연장, 민간 공연장, 대공연장(1000석 이상), 일반공연장(300~999석), 소공연장(300석미만), 자치구별 인구수 → 자치구별 인구대비 문화시설 수 최종 칼럼 도출
+- 문화시설 : 영화관 수, 전시 회관, 공연장, 자치구별 인구수 → 자치구별 인구대비 문화시설 수 최종 칼럼 도출
 - 상업시설 : 교육 서비스업, 도매 및 소매업, 숙박 및 음식점업, 공공행정 국방 및 사회보장 행정, 자치구별 인구수 → 자치구별 인구 대비 상업시설 수 최종 칼럼 도출
 - 유흥시설 : 예술 스포츠 및 여가관련 서비스업, 유흥 관련 시설, 자치구별 인구수 → 자치구별 인구 대비 상업시설 수 최종 칼럼 도출
 
  &nbsp;
 
-### [김소현 EDA](https://github.com/kim-so-hyeon/Naver-Shopping-Title-Recommendation-Service/blob/develop/NshoppingDBCrawler_hi.py)
+### [EDA (1)](https://github.com/kim-so-hyeon/Naver-Shopping-Title-Recommendation-Service/blob/develop/NshoppingDBCrawler_hi.py)
+- 수집된 데이터의 null값은 존재하지 않음
+- 3가지 주제의 연도가 동일
+- 주제&연도별 데이터 경향성 파악
 
 ![스크린샷, 2020-08-14 15-50-55](https://user-images.githubusercontent.com/64175895/90222165-7b8aea80-de46-11ea-89a0-9286b278c23e.png)
 Requests, BeautifulSoup 크롤링 / Background_tasks 스케쥴링 → 모델링 학습 데이터 및 WordCloud
