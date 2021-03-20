@@ -22,16 +22,12 @@
  &nbsp;
 
 ### [EDA과정](https://github.com/kim-so-hyeon/Naver-Shopping-Title-Recommendation-Service/blob/develop/NshoppingDBCrawler_hi.py)
-- 수집된 데이터의 null값은 존재하지 않음
+- 수집된 데이터의 null값 여부 확인
 ![image](https://user-images.githubusercontent.com/64175848/111867760-6a482480-89b9-11eb-8e8e-025c70390816.png)
 
-- 주제&연도별 데이터 경향성 파악
+- 주제&연도별 데이터 현황 파악
 ![image](https://user-images.githubusercontent.com/64175848/111867603-80a1b080-89b8-11eb-8768-72c5ce8092b0.png)
-
-
-
-![스크린샷, 2020-08-14 15-50-55](https://user-images.githubusercontent.com/64175895/90222165-7b8aea80-de46-11ea-89a0-9286b278c23e.png)
-Requests, BeautifulSoup 크롤링 / Background_tasks 스케쥴링 → 모델링 학습 데이터 및 WordCloud
+근 3년간 문화 시설 수량은 큰 변화가 없는 것으로 확인되어 합계로 칼럼 단일화 진행
 
 ### [텍스트 특수기호 클렌징 작업](https://github.com/kim-so-hyeon/Naver-Shopping-Title-Recommendation-Service/blob/develop/MakeResultVal_hi.ipynb)
 
