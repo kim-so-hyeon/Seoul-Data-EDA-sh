@@ -110,6 +110,7 @@
 
    → 소음민원 건수는 연간 증가 추세 / 자치구별 9년간(2010-2018)의 소음민원 합계를 보면 **강남구**가 독보적
 
+![image](https://user-images.githubusercontent.com/64175848/112984470-e3a1fd00-9199-11eb-81ba-3db781547e86.png)
 
 
  &nbsp;
