@@ -101,17 +101,16 @@
 
 ### 4. 소음·의료시설·치안 및 방범
 
-- 소음 :  → 
+- 소음 :  데이터 특성상 → 
 - 의료시설 :  → 
 - 치안 및 방범 :  → 
  
  &nbsp;
 
 ### [EDA과정](https://github.com/ayeongjeong/Seoul-Data-EDA/blob/main/seouldataEDA.ipynb)
-- 수집된 데이터의 null값 여부 확인
-![image](https://user-images.githubusercontent.com/64175848/111867760-6a482480-89b9-11eb-8e8e-025c70390816.png)
-![image](https://user-images.githubusercontent.com/64175848/112956498-7f704080-917b-11eb-9338-770fd199053f.png)
-![image](https://user-images.githubusercontent.com/64175848/112954885-ceb57180-9179-11eb-9a5a-b56319496eb2.png)
+- 수집된 데이터의 type확인
+![image](https://user-images.githubusercontent.com/64175848/112982185-257d7400-9197-11eb-8e78-8c7011bee3d6.png)
+
 
 - 주제&연도별 데이터 현황 파악
 ![image](https://user-images.githubusercontent.com/64175848/111867603-80a1b080-89b8-11eb-8768-72c5ce8092b0.png)
