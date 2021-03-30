@@ -24,7 +24,7 @@
 ### [EDA과정](https://github.com/kim-so-hyeon/Naver-Shopping-Title-Recommendation-Service/blob/develop/NshoppingDBCrawler_hi.py)
 - 수집된 데이터의 null값 여부 확인
 ![image](https://user-images.githubusercontent.com/64175848/111867760-6a482480-89b9-11eb-8e8e-025c70390816.png)
-![image](https://user-images.githubusercontent.com/64175848/112956424-6c5d7080-917b-11eb-84fa-577a77079f7e.png)
+![image](https://user-images.githubusercontent.com/64175848/112956498-7f704080-917b-11eb-9338-770fd199053f.png)
 ![image](https://user-images.githubusercontent.com/64175848/112954885-ceb57180-9179-11eb-9a5a-b56319496eb2.png)
 
 - 주제&연도별 데이터 현황 파악
