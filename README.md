@@ -30,7 +30,7 @@
 ![image](https://user-images.githubusercontent.com/64175848/112855372-b269f400-90e9-11eb-9abd-2727ad67c846.png)
 
 
-근 3년간 문화 시설 수량은 큰 변화가 없는 것으로 확인되어 합계로 칼럼 단일화 진행
+근 3년간 시설 수량의 큰 변화가 없는 것으로 확인되어 합계로 칼럼 단일화 진행
 
 ### [텍스트 특수기호 클렌징 작업](https://github.com/kim-so-hyeon/Naver-Shopping-Title-Recommendation-Service/blob/develop/MakeResultVal_hi.ipynb)
 
