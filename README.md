@@ -108,12 +108,13 @@
 
 ![image](https://user-images.githubusercontent.com/64175848/112983965-3f1fbb00-9199-11eb-94cd-605e82c45260.png)
 
-소음민원 건수는 연간 증가 추세 / 자치구별 9년간(2010-2018)의 소음민원 합계를 보면 **강남구**가 독보적
+   → 소음민원 건수는 연간 증가 추세 / 자치구별 9년간(2010-2018)의 소음민원 합계를 보면 **강남구**가 독보적
+
+
 
  &nbsp;
 
 - 시설 총 합계 / 인구대비 top10
 
-![image](https://user-images.githubusercontent.com/64175848/112977404-f82dc780-9190-11eb-8da4-4ea7aaa496d9.png)![image](https://user-images.githubusercontent.com/64175848/112980044-54461b00-9194-11eb-86a3-b84468335210.png)
 
  &nbsp;
