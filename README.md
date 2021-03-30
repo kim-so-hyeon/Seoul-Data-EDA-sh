@@ -97,6 +97,36 @@
 
 ![image](https://user-images.githubusercontent.com/64175848/112977404-f82dc780-9190-11eb-8da4-4ea7aaa496d9.png)![image](https://user-images.githubusercontent.com/64175848/112980044-54461b00-9194-11eb-86a3-b84468335210.png)
 
+ &nbsp;
+
+### 4. 소음·의료시설·치안 및 방범
+
+- 소음 :  → 
+- 의료시설 :  → 
+- 치안 및 방범 :  → 
+ 
+ &nbsp;
+
+### [EDA과정](https://github.com/ayeongjeong/Seoul-Data-EDA/blob/main/seouldataEDA.ipynb)
+- 수집된 데이터의 null값 여부 확인
+![image](https://user-images.githubusercontent.com/64175848/111867760-6a482480-89b9-11eb-8e8e-025c70390816.png)
+![image](https://user-images.githubusercontent.com/64175848/112956498-7f704080-917b-11eb-9338-770fd199053f.png)
+![image](https://user-images.githubusercontent.com/64175848/112954885-ceb57180-9179-11eb-9a5a-b56319496eb2.png)
+
+- 주제&연도별 데이터 현황 파악
+![image](https://user-images.githubusercontent.com/64175848/111867603-80a1b080-89b8-11eb-8768-72c5ce8092b0.png)
+![image](https://user-images.githubusercontent.com/64175848/112855372-b269f400-90e9-11eb-9abd-2727ad67c846.png)
+
+
+근 3년간 시설(문화&상업) 수량의 큰 변화가 없는 것으로 확인되어 합계로 칼럼 단일화 진행 / 유흥시설의 경우 다년간의 시설 수 확인이 어려워 최신 수량으로 진행
+
+ &nbsp;
+
+- 시설 총 합계 / 인구대비 top10
+
+![image](https://user-images.githubusercontent.com/64175848/112977404-f82dc780-9190-11eb-8da4-4ea7aaa496d9.png)![image](https://user-images.githubusercontent.com/64175848/112980044-54461b00-9194-11eb-86a3-b84468335210.png)
+
+ &nbsp;
 
 
 
