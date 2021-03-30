@@ -34,6 +34,11 @@
 
 근 3년간 시설(문화&상업) 수량의 큰 변화가 없는 것으로 확인되어 합계로 칼럼 단일화 진행 / 유흥시설의 경우 다년간의 시설 수 확인이 어려워 최신 수량으로 진행
 
+
+![image](https://user-images.githubusercontent.com/64175848/112977404-f82dc780-9190-11eb-8da4-4ea7aaa496d9.png)     ![image](https://user-images.githubusercontent.com/64175848/112979730-ed286680-9193-11eb-85ef-b38d6f948daa.png)
+
+
+
 ### [텍스트 특수기호 클렌징 작업](https://github.com/kim-so-hyeon/Naver-Shopping-Title-Recommendation-Service/blob/develop/MakeResultVal_hi.ipynb)
 
 ![스크린샷, 2020-08-14 16-23-31](https://user-images.githubusercontent.com/64175895/90224385-88a9d880-de4a-11ea-9cc6-7e8501f4b23e.png)
