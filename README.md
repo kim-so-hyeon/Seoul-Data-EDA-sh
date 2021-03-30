@@ -106,12 +106,9 @@
 
 - 주제&연도별 데이터 현황 파악
 
-![image](https://user-images.githubusercontent.com/64175848/112983368-92ddd480-9198-11eb-8ff7-c1dc5577f4c5.png) ![image](https://user-images.githubusercontent.com/64175848/112983452-ab4def00-9198-11eb-8b96-60d2652429f2.png)
+![image](https://user-images.githubusercontent.com/64175848/112983965-3f1fbb00-9199-11eb-94cd-605e82c45260.png)
 
-
-
-
-근 3년간 시설(문화&상업) 수량의 큰 변화가 없는 것으로 확인되어 합계로 칼럼 단일화 진행 / 유흥시설의 경우 다년간의 시설 수 확인이 어려워 최신 수량으로 진행
+소음민원 건수는 연간 증가 추세 / 자치구별 9년간(2010-2018)의 소음민원 합계를 보면 **강남구**가 독보적
 
  &nbsp;
 
