@@ -35,7 +35,8 @@
 근 3년간 시설(문화&상업) 수량의 큰 변화가 없는 것으로 확인되어 합계로 칼럼 단일화 진행 / 유흥시설의 경우 다년간의 시설 수 확인이 어려워 최신 수량으로 진행
 
 
-![image](https://user-images.githubusercontent.com/64175848/112977404-f82dc780-9190-11eb-8da4-4ea7aaa496d9.png)     ![image](https://user-images.githubusercontent.com/64175848/112979730-ed286680-9193-11eb-85ef-b38d6f948daa.png)
+![image](https://user-images.githubusercontent.com/64175848/112977404-f82dc780-9190-11eb-8da4-4ea7aaa496d9.png) ![image](https://user-images.githubusercontent.com/64175848/112980044-54461b00-9194-11eb-86a3-b84468335210.png)
+    ![image](https://user-images.githubusercontent.com/64175848/112979730-ed286680-9193-11eb-85ef-b38d6f948daa.png)
 
 
 
