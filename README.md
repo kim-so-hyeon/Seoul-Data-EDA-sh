@@ -85,7 +85,7 @@
 2) 교육환경
 ![image](https://user-images.githubusercontent.com/64175848/113709777-df3b8e00-971d-11eb-9ebf-14fbd875e0fd.png)
 3) 청결도
-
+![image](https://user-images.githubusercontent.com/64175848/113710875-368e2e00-971f-11eb-9db3-05faad07cf39.png)
 
  &nbsp;
 
