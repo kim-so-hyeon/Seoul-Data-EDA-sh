@@ -117,7 +117,7 @@
 
 3) 치안 및 방범
 
-![image](https://user-images.githubusercontent.com/64175848/113703786-43f2ea80-9716-11eb-9c15-61c70026d90a.png)![image](https://user-images.githubusercontent.com/64175848/113703822-4f461600-9716-11eb-8c78-9a24326debc4.png)
+![image](https://user-images.githubusercontent.com/64175848/113704260-de532e00-9716-11eb-9b4c-e4ee6bdbfe15.png)
 
  &nbsp;
 
