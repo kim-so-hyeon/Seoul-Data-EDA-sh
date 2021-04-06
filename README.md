@@ -117,11 +117,10 @@
 
 3) 치안 및 방범
 
-![image](https://user-images.githubusercontent.com/64175848/113704260-de532e00-9716-11eb-9b4c-e4ee6bdbfe15.png)
+![image](https://user-images.githubusercontent.com/64175848/113704930-bf08d080-9717-11eb-9580-bdfa8e58dd86.png)
 
  &nbsp;
 
 - 시설 총 합계 / 인구대비 top10
-
 
  &nbsp;
