@@ -67,19 +67,22 @@
 ### 3. 공원 및 녹지·교육환경·청결도
 
 - 공원 및 녹지 :  → 
-- 교육환경 :  → 
+- 교육환경 :  도서관 수에 대한 데이터 낮은 신뢰성(연도별로 증감의 폭이 너무 큼), 도서관 구분: 대표, 국립, 공공, 작은, 장애인, 전문 도서관(6가지 도서관 종류 중 대표, 국립, 공공도서관의 수만 집계)
 - 청결도 :  → 
- &nbsp;
+
+&nbsp;
 
 ### [EDA과정](https://github.com/kim-so-hyeon/Naver-Shopping-Title-Recommendation-Service/blob/develop/NshoppingDBCrawler_hi.py)
 - 수집된 데이터의 null값 여부 확인
 ![image](https://user-images.githubusercontent.com/64175848/113707442-e2814a80-971a-11eb-83b8-2930343e090d.png)
-
+![image](https://user-images.githubusercontent.com/64175848/113708752-946d4680-971c-11eb-9db7-878ea2499ef8.png)
 
 
 - 주제&연도별 데이터 현황 파악
 1) 공원 및 녹지
 ![image](https://user-images.githubusercontent.com/64175848/113708438-2e80bf00-971c-11eb-828c-ffcf9cabaddc.png)
+2) 교육환경
+![image](https://user-images.githubusercontent.com/64175848/113709641-b4513a00-971d-11eb-8bff-7ba114f0132d.png)
 
 
  &nbsp;
