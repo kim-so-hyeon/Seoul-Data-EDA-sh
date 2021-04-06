@@ -121,6 +121,9 @@
 
  &nbsp;
 
-- 시설 총 합계 / 인구대비 top10
+- 인구대비 데이터 스케일링 
+
+![image](https://user-images.githubusercontent.com/64175848/113707184-7a326900-971a-11eb-85ca-aa7c405c0164.png)
+
 
  &nbsp;
