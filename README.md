@@ -82,7 +82,8 @@
 1) 공원 및 녹지
 ![image](https://user-images.githubusercontent.com/64175848/113708438-2e80bf00-971c-11eb-828c-ffcf9cabaddc.png)
 2) 교육환경
-![image](https://user-images.githubusercontent.com/64175848/113709641-b4513a00-971d-11eb-8bff-7ba114f0132d.png)
+![image](https://user-images.githubusercontent.com/64175848/113709777-df3b8e00-971d-11eb-9ebf-14fbd875e0fd.png)
+3) 
 
 
  &nbsp;
