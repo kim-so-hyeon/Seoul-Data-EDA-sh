@@ -79,7 +79,8 @@
 
 - 주제&연도별 데이터 현황 파악
 1) 공원 및 녹지
-![image](https://user-images.githubusercontent.com/64175848/113708196-e5c90600-971b-11eb-9556-ef8d219b03e3.png)
+![image](https://user-images.githubusercontent.com/64175848/113708438-2e80bf00-971c-11eb-828c-ffcf9cabaddc.png)
+
 
  &nbsp;
 
