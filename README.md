@@ -103,7 +103,7 @@
 
 
 - 주제&연도별 데이터 현황 파악
-#### 
+1) 소음
 ![image](https://user-images.githubusercontent.com/64175848/112983965-3f1fbb00-9199-11eb-94cd-605e82c45260.png)
 
    → 소음민원 건수는 연간 증가 추세 / 자치구별 9년간(2010-2018)의 소음민원 합계를 보면 **강남구**가 독보적
@@ -112,9 +112,11 @@
 
    → 연도별 소음민원 건수의 변화를 보면, 가장 최신 데이터인 2018년의 빨간 실선을 기준으로 민원이 가장 많은 강남구는 계속해서 민원이 증가해온 것을 볼 수 있고, 은평구와 성북구, 광진구, 관악구 등은 민원 건수가 줄어든 것을 확인할 수 있다.
 
+2) 의료시설
 ![image](https://user-images.githubusercontent.com/64175848/113701772-8e269c80-9713-11eb-9aa5-53c76a14aef6.png)
 
-
+3) 치안 및 방범
+![image](https://user-images.githubusercontent.com/64175848/113703786-43f2ea80-9716-11eb-9c15-61c70026d90a.png)![image](https://user-images.githubusercontent.com/64175848/113703822-4f461600-9716-11eb-8c78-9a24326debc4.png)
 
  &nbsp;
 
