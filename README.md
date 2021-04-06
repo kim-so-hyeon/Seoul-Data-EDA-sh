@@ -73,12 +73,13 @@
 
 ### [EDA과정](https://github.com/kim-so-hyeon/Naver-Shopping-Title-Recommendation-Service/blob/develop/NshoppingDBCrawler_hi.py)
 - 수집된 데이터의 null값 여부 확인
+![image](https://user-images.githubusercontent.com/64175848/113707442-e2814a80-971a-11eb-83b8-2930343e090d.png)
+
 
 
 - 주제&연도별 데이터 현황 파악
-
-
-
+1) 공원 및 녹지
+![image](https://user-images.githubusercontent.com/64175848/113708196-e5c90600-971b-11eb-9556-ef8d219b03e3.png)
 
  &nbsp;
 
