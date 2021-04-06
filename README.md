@@ -36,8 +36,7 @@
 
 - 시설 총 합계 / 인구대비 top6
 
-![image](https://user-images.githubusercontent.com/64175848/113706532-c16c2a00-9719-11eb-9bc9-92483a9d61b3.png)
-
+![image](https://user-images.githubusercontent.com/64175848/113706787-0c863d00-971a-11eb-837d-137c22433dce.png)
 
 &nbsp;
 
