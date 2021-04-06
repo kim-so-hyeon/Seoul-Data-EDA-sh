@@ -104,7 +104,7 @@
 
 
 - 주제&연도별 데이터 현황 파악
-
+#### 
 ![image](https://user-images.githubusercontent.com/64175848/112983965-3f1fbb00-9199-11eb-94cd-605e82c45260.png)
 
    → 소음민원 건수는 연간 증가 추세 / 자치구별 9년간(2010-2018)의 소음민원 합계를 보면 **강남구**가 독보적
@@ -113,8 +113,8 @@
 
    → 연도별 소음민원 건수의 변화를 보면, 가장 최신 데이터인 2018년의 빨간 실선을 기준으로 민원이 가장 많은 강남구는 계속해서 민원이 증가해온 것을 볼 수 있고, 은평구와 성북구, 광진구, 관악구 등은 민원 건수가 줄어든 것을 확인할 수 있다.
 
-![image](https://user-images.githubusercontent.com/64175848/113701132-b235ae00-9712-11eb-9588-9965665219bf.png)
-![image](https://user-images.githubusercontent.com/64175848/113701243-dd200200-9712-11eb-9aec-b8ee6ff16e3f.png)
+![image](https://user-images.githubusercontent.com/64175848/113701377-0b054680-9713-11eb-99c1-3230760d3cdf.png)
+
 
 
 
