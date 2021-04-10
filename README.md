@@ -93,9 +93,12 @@
 
 ### [EDA과정](https://github.com/kim-so-hyeon/Naver-Shopping-Title-Recommendation-Service/blob/develop/NshoppingDBCrawler_hi.py)
 - 수집된 데이터의 null값 여부 확인
+1) 대중교통 접근성
 ![image](https://user-images.githubusercontent.com/64175848/114267328-cb519e00-9a35-11eb-82f1-e81a7085ce57.png)
 ![image](https://user-images.githubusercontent.com/64175848/114267346-ecb28a00-9a35-11eb-8f2d-a42248cb002a.png)
 ![image](https://user-images.githubusercontent.com/64175848/114267357-048a0e00-9a36-11eb-8faa-b0c75670b201.png)
+
+2) 
 
 
 - 주제&연도별 데이터 현황 파악
@@ -104,7 +107,10 @@
 ![image](https://user-images.githubusercontent.com/64175848/114268504-651c4980-9a3c-11eb-94ed-828f57b59cf2.png)
 ![image](https://user-images.githubusercontent.com/64175848/114268466-369e6e80-9a3c-11eb-9a33-4fc2b6233187.png)
 
-→ 
+→ 버스·지하철의 경우는 큰 변화가 있지 않은 데이터로 보이고, 공공자전거의 경우 매년 전체적으로 수가 늘어나고 있는 것으로 확인되어짐
+
+2) 보행안전
+
 
 
 
