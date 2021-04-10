@@ -85,7 +85,7 @@
 
 ### 2-2. 대중교통 접근성·보행안전·주차시설
 
-- 대중교통 접근성 :  공공자전거(따릉이), 서울시내버스, 지하철 데이터 이용 → 
+- 대중교통 접근성 :  공공자전거(따릉이), 서울시내버스, 지하철 데이터 이용
 - 보행안전 :  → 
 - 주차시설 :  → 
 
@@ -100,9 +100,11 @@
 
 - 주제&연도별 데이터 현황 파악
 1) 대중교통 접근성
-![image](https://user-images.githubusercontent.com/64175848/114268058-22f20880-9a3a-11eb-849d-f59fc12b6ee7.png)
-![image](https://user-images.githubusercontent.com/64175848/114268100-4f0d8980-9a3a-11eb-83d5-9ce92b93ba25.png)
+![image](https://user-images.githubusercontent.com/64175848/114268476-461db780-9a3c-11eb-92d9-c6f7e97ec80f.png)
+![image](https://user-images.githubusercontent.com/64175848/114268504-651c4980-9a3c-11eb-94ed-828f57b59cf2.png)
+![image](https://user-images.githubusercontent.com/64175848/114268466-369e6e80-9a3c-11eb-9a33-4fc2b6233187.png)
 
+→ 
 
 
 
