@@ -79,6 +79,8 @@
 
 ![image](https://user-images.githubusercontent.com/64175848/113706787-0c863d00-971a-11eb-837d-137c22433dce.png)
 
+→ 기존 시설 합계 순위와 인구대비 합계 순위 사이에는 차이가 존재하고, 인구 대비로 변경한 데이터를 최종 데이터로 사용
+
 &nbsp;
 
 ### 2-2. 대중교통 접근성·보행안전·주차시설
@@ -91,6 +93,9 @@
 
 ### [EDA과정](https://github.com/kim-so-hyeon/Naver-Shopping-Title-Recommendation-Service/blob/develop/NshoppingDBCrawler_hi.py)
 - 수집된 데이터의 null값 여부 확인
+![image](https://user-images.githubusercontent.com/64175848/114267328-cb519e00-9a35-11eb-82f1-e81a7085ce57.png)
+![image](https://user-images.githubusercontent.com/64175848/114267346-ecb28a00-9a35-11eb-8f2d-a42248cb002a.png)
+![image](https://user-images.githubusercontent.com/64175848/114267357-048a0e00-9a36-11eb-8faa-b0c75670b201.png)
 
 
 - 주제&연도별 데이터 현황 파악
@@ -107,7 +112,7 @@
 
 ### 2-3. 공원 및 녹지·교육환경·청결도
 
-- 공원 및 녹지 :  공원수, 1인당 공원면적 모두 매년 증가하는 추세로 
+- 공원 및 녹지 :  공원수, 1인당 공원면적 모두 매년 증가하는 추세로 파악됨
 - 교육환경 :  도서관 수에 대한 데이터 낮은 신뢰성(연도별로 증감의 폭이 너무 큼), 도서관 구분: 대표, 국립, 공공, 작은, 장애인, 전문 도서관(6가지 도서관 종류 중 대표, 국립, 공공도서관의 수만 집계)
 - 청결도 : 급변하는 부분도 있고 자치구들의 공통적인 특징도 찾기 어려움 / 최근 2년 평균치로 진행
 
