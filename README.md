@@ -99,6 +99,7 @@
 
 
 - 주제&연도별 데이터 현황 파악
+1) 대중교통 접근성
 ![image](https://user-images.githubusercontent.com/64175848/114268058-22f20880-9a3a-11eb-849d-f59fc12b6ee7.png)
 ![image](https://user-images.githubusercontent.com/64175848/114268100-4f0d8980-9a3a-11eb-83d5-9ce92b93ba25.png)
 
@@ -136,9 +137,6 @@
 ![image](https://user-images.githubusercontent.com/64175848/113710875-368e2e00-971f-11eb-9db3-05faad07cf39.png)
 
  &nbsp;
-
-- 시설 총 합계 / 인구대비 top10
-
 
 
  &nbsp;
