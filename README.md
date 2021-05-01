@@ -193,3 +193,11 @@
 <a name="conclusion"> <a/>
 
 ## 3. 결론
+
+## Scaled_Dataset EDA
+
+![heatmap](https://user-images.githubusercontent.com/64175151/116783713-4fde8c00-aacb-11eb-9dd4-143865cbd96d.png)
+-
+
+![boxplot](https://user-images.githubusercontent.com/64175151/116783754-80bec100-aacb-11eb-9331-a29114bbea51.png)
+-
