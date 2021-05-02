@@ -88,8 +88,8 @@
 ### 2-2. 대중교통 접근성·보행안전·주차시설
 
 - 대중교통 접근성 :  공공자전거(따릉이), 서울시내버스, 지하철 데이터 이용
-- 보행안전 :  → 
-- 주차시설 :  → 
+- 보행안전 :  횡단보도 데이터, 교통사고 데이터, 보행안전 통계 데이터 이용 
+- 주차시설 :  주차시설 데이터 이용
 
  &nbsp;
 
@@ -100,11 +100,16 @@
 ![image](https://user-images.githubusercontent.com/64175848/114267346-ecb28a00-9a35-11eb-8f2d-a42248cb002a.png)
 ![image](https://user-images.githubusercontent.com/64175848/114267357-048a0e00-9a36-11eb-8faa-b0c75670b201.png)
 
-2) 
+2) 보행안전
+![image](https://user-images.githubusercontent.com/64175848/116807790-0f851980-ab70-11eb-92d4-1a983b8e1a12.png)
+![image](https://user-images.githubusercontent.com/64175848/116807809-2deb1500-ab70-11eb-8dc3-7ae7d4d425d8.png)
+![image](https://user-images.githubusercontent.com/64175848/116807816-3fccb800-ab70-11eb-9ddb-c613decf68c5.png)
 
+3) 주차시설
+![image](https://user-images.githubusercontent.com/64175848/116807848-828e9000-ab70-11eb-9b50-c241491e5c80.png)
 
 - 주제&연도별 데이터 현황 파악
-1) 대중교통 접근성
+5) 대중교통 접근성
 ![image](https://user-images.githubusercontent.com/64175848/114268476-461db780-9a3c-11eb-92d9-c6f7e97ec80f.png)
 ![image](https://user-images.githubusercontent.com/64175848/114268504-651c4980-9a3c-11eb-94ed-828f57b59cf2.png)
 ![image](https://user-images.githubusercontent.com/64175848/114268466-369e6e80-9a3c-11eb-9a33-4fc2b6233187.png)
@@ -113,8 +118,9 @@
 
 2) 보행안전
 
-
-
+![image](https://user-images.githubusercontent.com/64175848/116807897-a7830300-ab70-11eb-887a-d55275e607fe.png)
+![image](https://user-images.githubusercontent.com/64175848/116807932-f335ac80-ab70-11eb-9818-a42e086fbb31.png)
+![image](https://user-images.githubusercontent.com/64175848/116807944-05174f80-ab71-11eb-852c-53df1f619bdb.png)
 
  &nbsp;
 
