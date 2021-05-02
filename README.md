@@ -109,7 +109,7 @@
 ![image](https://user-images.githubusercontent.com/64175848/116807848-828e9000-ab70-11eb-9b50-c241491e5c80.png)
 
 - 주제&연도별 데이터 현황 파악
-5) 대중교통 접근성
+1) 대중교통 접근성
 ![image](https://user-images.githubusercontent.com/64175848/114268476-461db780-9a3c-11eb-92d9-c6f7e97ec80f.png)
 ![image](https://user-images.githubusercontent.com/64175848/114268504-651c4980-9a3c-11eb-94ed-828f57b59cf2.png)
 ![image](https://user-images.githubusercontent.com/64175848/114268466-369e6e80-9a3c-11eb-9a33-4fc2b6233187.png)
@@ -117,15 +117,20 @@
 → 버스·지하철의 경우는 큰 변화가 있지 않은 데이터로 보이고, 공공자전거의 경우 매년 전체적으로 수가 늘어나고 있는 것으로 확인되어짐
 
 2) 보행안전
-
 ![image](https://user-images.githubusercontent.com/64175848/116807897-a7830300-ab70-11eb-887a-d55275e607fe.png)
 ![image](https://user-images.githubusercontent.com/64175848/116807932-f335ac80-ab70-11eb-9818-a42e086fbb31.png)
 ![image](https://user-images.githubusercontent.com/64175848/116807944-05174f80-ab71-11eb-852c-53df1f619bdb.png)
+→ 연도별로 횡단보도 수는 꾸준히 증가하고 있으며, 자치구별 순위에 큰 변동이 없는 것으로 확인되었다. 신호등 유무로 나눠 살펴볼 때, 강남구를 제외하고는 순위에 큰 차이는 없는 것으로 보임
 
- &nbsp;
+![image](https://user-images.githubusercontent.com/64175848/116808191-70155600-ab72-11eb-927f-175a247339e4.png)
+→ 연도별 교통사고 사망자수는 전체적으로는 줄어들고 있는 것으로 보여지는데, 인구 10만명당 사망자수는 강남에 비해 강북에 위치한 자치구에서 좀 더 높게 나타남 
 
-- 시설 총 합계 / 인구대비 top10
+![image](https://user-images.githubusercontent.com/64175848/116808280-ec0f9e00-ab72-11eb-97c3-b6b8f0e6a8fe.png)
 
+3) 주차시설
+
+![image](https://user-images.githubusercontent.com/64175848/116808323-21b48700-ab73-11eb-9ef1-fca86d528905.png)
+→ 자치구별 주차장확보율 추이를 나타냄
 
 &nbsp;
 
@@ -151,9 +156,6 @@
 ![image](https://user-images.githubusercontent.com/64175848/113709777-df3b8e00-971d-11eb-9ebf-14fbd875e0fd.png)
 3) 청결도
 ![image](https://user-images.githubusercontent.com/64175848/113710875-368e2e00-971f-11eb-9db3-05faad07cf39.png)
-
- &nbsp;
-
 
  &nbsp;
 
