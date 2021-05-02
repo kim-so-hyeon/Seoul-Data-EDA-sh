@@ -196,8 +196,13 @@
 
 ![image](https://user-images.githubusercontent.com/64175848/113707184-7a326900-971a-11eb-85ca-aa7c405c0164.png)
 
+ &nbsp;
+
+### EDA 결론
+입지 분석 관련 데이터의 특성은 시설과 관련된 정보가 주를 이뤘고, 시설 관련 데이터들은 연도별 큰 차이가 나타나지 않는 것으로 확인되었다. 소음과 
 
  &nbsp;
+
 <a name="conclusion"> <a/>
 
 ## 3. 결론
