@@ -18,7 +18,7 @@
     * 서울시 1인가구현황 분석 
 2. [EDA](#eda)    
     * [연도별 데이터 현황 ](#facilities)    
-    * [EDA결론](#결론) 
+    * [EDA결론](#result) 
 3. [결론](#conclusion)    
 
 &nbsp;
@@ -137,7 +137,7 @@
 ![image](https://user-images.githubusercontent.com/64175848/113707184-7a326900-971a-11eb-85ca-aa7c405c0164.png)
 &nbsp;
 
-<a name=""> <a/>
+<a name="result"> <a/>
 
 ### EDA 결론
 입지 분석 관련 수집된 데이터의 특성은 시설과 관련된 정보가 주를 이뤘고, 시설 관련 데이터들은 연도별 큰 차이가 나타나지 않는 것으로 확인되었다.
