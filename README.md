@@ -72,7 +72,7 @@
 
 ### 연도별 데이터 현황 파악
 
-1) 문화&상업시설
+#### 1) 문화&상업시설
 ![image](https://user-images.githubusercontent.com/64175848/111867603-80a1b080-89b8-11eb-8768-72c5ce8092b0.png)
 ![image](https://user-images.githubusercontent.com/64175848/113703458-d21aa100-9715-11eb-8fae-e89bb29341f0.png)
 
@@ -86,7 +86,7 @@
 
 &nbsp;
 
-2) 대중교통 접근성
+#### 2) 대중교통 접근성
 ![image](https://user-images.githubusercontent.com/64175848/114268476-461db780-9a3c-11eb-92d9-c6f7e97ec80f.png)
 ![image](https://user-images.githubusercontent.com/64175848/114268504-651c4980-9a3c-11eb-94ed-828f57b59cf2.png)
 ![image](https://user-images.githubusercontent.com/64175848/114268466-369e6e80-9a3c-11eb-9a33-4fc2b6233187.png)
@@ -126,6 +126,7 @@
 9) 의료시설
 ![image](https://user-images.githubusercontent.com/64175848/113701772-8e269c80-9713-11eb-9aa5-53c76a14aef6.png)
 &nbsp;
+
 10) 치안 및 방범
 ![image](https://user-images.githubusercontent.com/64175848/113704930-bf08d080-9717-11eb-9580-bdfa8e58dd86.png)
 &nbsp;
