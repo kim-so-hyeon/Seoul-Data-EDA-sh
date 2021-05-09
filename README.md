@@ -83,7 +83,9 @@
 
 → 기존 시설 합계 순위와 인구대비 합계 순위 사이에는 차이가 존재하고, 인구 대비로 변경한 데이터를 최종 데이터로 선정하고 스케일링 
 &nbsp;
+
 2) 대중교통 접근성
+3) 
 ![image](https://user-images.githubusercontent.com/64175848/114268476-461db780-9a3c-11eb-92d9-c6f7e97ec80f.png)
 ![image](https://user-images.githubusercontent.com/64175848/114268504-651c4980-9a3c-11eb-94ed-828f57b59cf2.png)
 ![image](https://user-images.githubusercontent.com/64175848/114268466-369e6e80-9a3c-11eb-9a33-4fc2b6233187.png)
