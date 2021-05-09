@@ -71,21 +71,22 @@
  &nbsp;
 
 ### 연도별 데이터 현황 파악
+
 1) 문화&상업시설
 ![image](https://user-images.githubusercontent.com/64175848/111867603-80a1b080-89b8-11eb-8768-72c5ce8092b0.png)
 ![image](https://user-images.githubusercontent.com/64175848/113703458-d21aa100-9715-11eb-8fae-e89bb29341f0.png)
 
 → 근 3년간 시설(문화&상업) 수량의 큰 변화가 없는 것으로 확인되어 합계로 칼럼 단일화 진행
- &nbsp;
+&nbsp;
 - 시설 총 합계 / 인구대비 top6
 
 ![image](https://user-images.githubusercontent.com/64175848/113706787-0c863d00-971a-11eb-837d-137c22433dce.png)
 
 → 기존 시설 합계 순위와 인구대비 합계 순위 사이에는 차이가 존재하고, 인구 대비로 변경한 데이터를 최종 데이터로 선정하고 스케일링 
+
 &nbsp;
 
 2) 대중교통 접근성
-3) 
 ![image](https://user-images.githubusercontent.com/64175848/114268476-461db780-9a3c-11eb-92d9-c6f7e97ec80f.png)
 ![image](https://user-images.githubusercontent.com/64175848/114268504-651c4980-9a3c-11eb-94ed-828f57b59cf2.png)
 ![image](https://user-images.githubusercontent.com/64175848/114268466-369e6e80-9a3c-11eb-9a33-4fc2b6233187.png)
@@ -100,20 +101,20 @@
 → 연도별 교통사고 사망자수는 전체적으로는 줄어들고 있는 것으로 보여지는데, 인구 10만명당 사망자수는 강남에 비해 강북에 위치한 자치구에서 좀 더 높게 나타남 
 ![image](https://user-images.githubusercontent.com/64175848/116808280-ec0f9e00-ab72-11eb-97c3-b6b8f0e6a8fe.png)
 &nbsp;
-3) 주차시설
+4) 주차시설
 ![image](https://user-images.githubusercontent.com/64175848/116808323-21b48700-ab73-11eb-9ef1-fca86d528905.png)
 → 자치구별 주차장확보율 추이를 나타냄
 &nbsp;
-4) 공원 및 녹지
+5) 공원 및 녹지
 ![image](https://user-images.githubusercontent.com/64175848/113708438-2e80bf00-971c-11eb-828c-ffcf9cabaddc.png)
 &nbsp;
-5) 교육환경
+6) 교육환경
 ![image](https://user-images.githubusercontent.com/64175848/113709777-df3b8e00-971d-11eb-9ebf-14fbd875e0fd.png)
 &nbsp;
-6) 청결도
+7) 청결도
 ![image](https://user-images.githubusercontent.com/64175848/113710875-368e2e00-971f-11eb-9db3-05faad07cf39.png)
 &nbsp;
-7) 소음
+8) 소음
 ![image](https://user-images.githubusercontent.com/64175848/112983965-3f1fbb00-9199-11eb-94cd-605e82c45260.png)
 
    → 소음민원 건수는 연간 증가 추세 / 자치구별 9년간(2010-2018)의 소음민원 합계를 보면 **강남구**가 독보적
@@ -122,10 +123,10 @@
 
    → 연도별 소음민원 건수의 변화를 보면, 가장 최신 데이터인 2018년의 빨간 실선을 기준으로 민원이 가장 많은 강남구는 계속해서 민원이 증가해온 것을 볼 수 있고, 은평구와 성북구, 광진구, 관악구 등은 민원 건수가 줄어든 것을 확인할 수 있다.
 &nbsp;
-8) 의료시설
+9) 의료시설
 ![image](https://user-images.githubusercontent.com/64175848/113701772-8e269c80-9713-11eb-9aa5-53c76a14aef6.png)
 &nbsp;
-9) 치안 및 방범
+10) 치안 및 방범
 ![image](https://user-images.githubusercontent.com/64175848/113704930-bf08d080-9717-11eb-9580-bdfa8e58dd86.png)
 &nbsp;
 - 인구대비 데이터 스케일링 
