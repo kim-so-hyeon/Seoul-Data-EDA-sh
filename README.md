@@ -70,7 +70,7 @@
 
  &nbsp;
 
-- 연도별 데이터 현황 파악
+### 연도별 데이터 현황 파악
 1) 문화&상업시설
 ![image](https://user-images.githubusercontent.com/64175848/111867603-80a1b080-89b8-11eb-8768-72c5ce8092b0.png)
 ![image](https://user-images.githubusercontent.com/64175848/113703458-d21aa100-9715-11eb-8fae-e89bb29341f0.png)
