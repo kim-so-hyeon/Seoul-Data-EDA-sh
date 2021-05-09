@@ -16,7 +16,7 @@
 ## 📋 Contents
 1. [서론](#intro)   
     * 서울시 1인가구현황 분석 
-2. [주제별 EDA](#eda)    
+2. [EDA](#eda)    
     * [문화·상업시설](#facilities)    
     * [대중교통·보행안전·주차시설](#)    
     * [공원·교육환경·청결도](#)    
@@ -51,27 +51,29 @@
 &nbsp;
 
 <a name="eda"> <a/>
-## 2. 주제별 EDA
+## 2. EDA
 
 
 <a name="facilities"> <a/>
  
-### 2-1. 문화·상업시설
-
 - 문화시설 : 영화관 수, 민간·공공 공연장, 자치구별 인구수 → 자치구별 인구 대비 문화시설 수 최종 칼럼 도출
 - 상업시설 : 교육 서비스업, 도매 및 소매업, 숙박 및 음식점업, 공공행정 국방 및 사회보장 행정,  예술 스포츠 및 여가관련 서비스업, 자치구별 인구수 → 자치구별 인구 대비 상업시설 수 최종 칼럼 도출
+- 대중교통 접근성 :  공공자전거(따릉이), 서울시내버스, 지하철 데이터 이용
+- 보행안전 :  횡단보도 데이터, 교통사고 데이터, 보행안전 통계 데이터 이용 
+- 주차시설 :  주차시설 데이터 이용
+- 공원 및 녹지 :  공원수, 1인당 공원면적 모두 매년 증가하는 추세로 파악됨
+- 교육환경 :  도서관 수에 대한 데이터 낮은 신뢰성(연도별로 증감의 폭이 너무 큼), 도서관 구분: 대표, 국립, 공공, 작은, 장애인, 전문 도서관(6가지 도서관 종류 중 대표, 국립, 공공도서관의 수만 집계)
+- 청결도 : 급변하는 부분도 있고 자치구들의 공통적인 특징도 찾기 어려움 / 최근 2년 평균치로 진행
+- 소음 : 데이터 특성상 연도별 변화가 가장 두드러지게 나타났으며, 입지 선정에 있어 마이너스적인 요소로 진행
+- 의료시설 : 시설의 경우 변화가 거의 없는 것으로 파악되며 응급실 현황 컬럼 사용
+- 치안 및 방범 : 방범용 CCTV & 안전비상벨 컬럼 사용
 
  &nbsp;
 
-### [EDA과정](https://github.com/kim-so-hyeon/Naver-Shopping-Title-Recommendation-Service/blob/develop/NshoppingDBCrawler_hi.py)
-- 수집된 데이터의 null값 여부 확인
-![image](https://user-images.githubusercontent.com/64175848/111867760-6a482480-89b9-11eb-8e8e-025c70390816.png)
-![image](https://user-images.githubusercontent.com/64175848/113703258-88ca5180-9715-11eb-82ab-e4ae321a4072.png)
-
-- 주제&연도별 데이터 현황 파악
+- 연도별 데이터 현황 파악
+1) 문화&상업시설
 ![image](https://user-images.githubusercontent.com/64175848/111867603-80a1b080-89b8-11eb-8768-72c5ce8092b0.png)
 ![image](https://user-images.githubusercontent.com/64175848/113703458-d21aa100-9715-11eb-8fae-e89bb29341f0.png)
-
 
 → 근 3년간 시설(문화&상업) 수량의 큰 변화가 없는 것으로 확인되어 합계로 칼럼 단일화 진행
 
@@ -83,40 +85,14 @@
 
 → 기존 시설 합계 순위와 인구대비 합계 순위 사이에는 차이가 존재하고, 인구 대비로 변경한 데이터를 최종 데이터로 선정하고 스케일링 
 
-&nbsp;
-
-### 2-2. 대중교통 접근성·보행안전·주차시설
-
-- 대중교통 접근성 :  공공자전거(따릉이), 서울시내버스, 지하철 데이터 이용
-- 보행안전 :  횡단보도 데이터, 교통사고 데이터, 보행안전 통계 데이터 이용 
-- 주차시설 :  주차시설 데이터 이용
-
- &nbsp;
-
-### [EDA과정](https://github.com/kim-so-hyeon/Naver-Shopping-Title-Recommendation-Service/blob/develop/NshoppingDBCrawler_hi.py)
-- 수집된 데이터의 null값 여부 확인
-1) 대중교통 접근성
-![image](https://user-images.githubusercontent.com/64175848/114267328-cb519e00-9a35-11eb-82f1-e81a7085ce57.png)
-![image](https://user-images.githubusercontent.com/64175848/114267346-ecb28a00-9a35-11eb-8f2d-a42248cb002a.png)
-![image](https://user-images.githubusercontent.com/64175848/114267357-048a0e00-9a36-11eb-8faa-b0c75670b201.png)
-
-2) 보행안전
-![image](https://user-images.githubusercontent.com/64175848/116807790-0f851980-ab70-11eb-92d4-1a983b8e1a12.png)
-![image](https://user-images.githubusercontent.com/64175848/116807809-2deb1500-ab70-11eb-8dc3-7ae7d4d425d8.png)
-![image](https://user-images.githubusercontent.com/64175848/116807816-3fccb800-ab70-11eb-9ddb-c613decf68c5.png)
-
-3) 주차시설
-![image](https://user-images.githubusercontent.com/64175848/116807848-828e9000-ab70-11eb-9b50-c241491e5c80.png)
-
-- 주제&연도별 데이터 현황 파악
-1) 대중교통 접근성
+2) 대중교통 접근성
 ![image](https://user-images.githubusercontent.com/64175848/114268476-461db780-9a3c-11eb-92d9-c6f7e97ec80f.png)
 ![image](https://user-images.githubusercontent.com/64175848/114268504-651c4980-9a3c-11eb-94ed-828f57b59cf2.png)
 ![image](https://user-images.githubusercontent.com/64175848/114268466-369e6e80-9a3c-11eb-9a33-4fc2b6233187.png)
 
 → 버스·지하철의 경우는 큰 변화가 있지 않은 데이터로 보이고, 공공자전거의 경우 매년 전체적으로 수가 늘어나고 있는 것으로 확인되어짐
 
-2) 보행안전
+3) 보행안전
 ![image](https://user-images.githubusercontent.com/64175848/116807897-a7830300-ab70-11eb-887a-d55275e607fe.png)
 ![image](https://user-images.githubusercontent.com/64175848/116807932-f335ac80-ab70-11eb-9818-a42e086fbb31.png)
 ![image](https://user-images.githubusercontent.com/64175848/116807944-05174f80-ab71-11eb-852c-53df1f619bdb.png)
@@ -133,48 +109,16 @@
 → 자치구별 주차장확보율 추이를 나타냄
 
 &nbsp;
-
-### 2-3. 공원 및 녹지·교육환경·청결도
-
-- 공원 및 녹지 :  공원수, 1인당 공원면적 모두 매년 증가하는 추세로 파악됨
-- 교육환경 :  도서관 수에 대한 데이터 낮은 신뢰성(연도별로 증감의 폭이 너무 큼), 도서관 구분: 대표, 국립, 공공, 작은, 장애인, 전문 도서관(6가지 도서관 종류 중 대표, 국립, 공공도서관의 수만 집계)
-- 청결도 : 급변하는 부분도 있고 자치구들의 공통적인 특징도 찾기 어려움 / 최근 2년 평균치로 진행
-
-&nbsp;
-
-### [EDA과정](https://github.com/kim-so-hyeon/Naver-Shopping-Title-Recommendation-Service/blob/develop/NshoppingDBCrawler_hi.py)
-- 수집된 데이터의 null값 여부 확인
-![image](https://user-images.githubusercontent.com/64175848/113707442-e2814a80-971a-11eb-83b8-2930343e090d.png)
-![image](https://user-images.githubusercontent.com/64175848/113708752-946d4680-971c-11eb-9db7-878ea2499ef8.png)
-![image](https://user-images.githubusercontent.com/64175848/113710094-3fcacb00-971e-11eb-9607-4f342ed7ce9e.png)
-
-
-- 주제&연도별 데이터 현황 파악
-1) 공원 및 녹지
+4) 공원 및 녹지
 ![image](https://user-images.githubusercontent.com/64175848/113708438-2e80bf00-971c-11eb-828c-ffcf9cabaddc.png)
-2) 교육환경
+5) 교육환경
 ![image](https://user-images.githubusercontent.com/64175848/113709777-df3b8e00-971d-11eb-9ebf-14fbd875e0fd.png)
-3) 청결도
+6) 청결도
 ![image](https://user-images.githubusercontent.com/64175848/113710875-368e2e00-971f-11eb-9db3-05faad07cf39.png)
-
- &nbsp;
-
-### 2-4. 소음·의료시설·치안 및 방범
-
-- 소음 : 데이터 특성상 연도별 변화가 가장 두드러지게 나타났으며, 입지 선정에 있어 마이너스적인 요소로 진행
-- 의료시설 : 시설의 경우 변화가 거의 없는 것으로 파악되며 응급실 현황 컬럼 사용
-- 치안 및 방범 : 방범용 CCTV & 안전비상벨 컬럼 사용
  
  &nbsp;
 
-### [EDA과정](https://github.com/ayeongjeong/Seoul-Data-EDA/blob/main/seouldataEDA.ipynb)
-- 수집된 데이터의 type확인
-![image](https://user-images.githubusercontent.com/64175848/112982185-257d7400-9197-11eb-8e78-8c7011bee3d6.png)
-![image](https://user-images.githubusercontent.com/64175848/112982416-6d9c9680-9197-11eb-86cf-60541068cbe3.png)
-
-
-- 주제&연도별 데이터 현황 파악
-1) 소음
+7) 소음
 ![image](https://user-images.githubusercontent.com/64175848/112983965-3f1fbb00-9199-11eb-94cd-605e82c45260.png)
 
    → 소음민원 건수는 연간 증가 추세 / 자치구별 9년간(2010-2018)의 소음민원 합계를 보면 **강남구**가 독보적
@@ -183,10 +127,10 @@
 
    → 연도별 소음민원 건수의 변화를 보면, 가장 최신 데이터인 2018년의 빨간 실선을 기준으로 민원이 가장 많은 강남구는 계속해서 민원이 증가해온 것을 볼 수 있고, 은평구와 성북구, 광진구, 관악구 등은 민원 건수가 줄어든 것을 확인할 수 있다.
 
-2) 의료시설
+8) 의료시설
 ![image](https://user-images.githubusercontent.com/64175848/113701772-8e269c80-9713-11eb-9aa5-53c76a14aef6.png)
 
-3) 치안 및 방범
+9) 치안 및 방범
 
 ![image](https://user-images.githubusercontent.com/64175848/113704930-bf08d080-9717-11eb-9580-bdfa8e58dd86.png)
 
@@ -210,7 +154,6 @@
 ### 1) 자치구별 점수 분포
 
 #### (1) Top 5 자치구
-![top5](https://user-images.githubusercontent.com/44727584/117565259-3d77da00-b0eb-11eb-9fb5-bd8e1c6813d1.png)
 
 총합계 점수가 높은 5개의 자치구의 경우 전체적으로 상이한 각 항목의 점수 추이를 가지는 것을 볼 수 있다.
 
@@ -223,8 +166,6 @@
 강동구는 서초구와 다소 비슷한 점수 분포 양상으로 청결심각수준과 의료기관만 높은 점수를 갖는다. 이외에는 최하 점수만 없을 뿐 다양한 범위의 점수를 갖고 있다.
 
 #### (2) Bottom 5 자치구
-![bottom5](https://user-images.githubusercontent.com/44727584/117565281-52ed0400-b0eb-11eb-8717-d7573c2641d0.png)
-
 총 합계 점수 BOTTOM5 의 자치구는 모두 청결심각수준이 상위 점수를 갖고, 소음민원 역시 높은 점수를 갖는 것을 볼 수 있다. 이는 TOP5 의 자치구들이 공통적으로 높거나 낮은 점수를 갖는 항목이 없었기에 대조적이다.
 
 5개의 자치구는 비교적 비슷한 항목별 점수 분포를 가진다. 총 합계 점수 최하위 자치구이기 때문에 청결심각수준과 소음민원을 제외한 나머지 항목에서는 최하위 또는 하위의 점수만을 갖는 것을 볼 수 있다.
@@ -234,8 +175,6 @@
 ### 2) 지도로 비교한 자치구별 점수 분포
 
 #### (1) 총 점수
-![scores](https://user-images.githubusercontent.com/44727584/117565398-f2aa9200-b0eb-11eb-8689-6bb26d8eaf1c.PNG)
-
 총 합계 점수를 바탕으로 지도로 표시하였을 때, 지리적으로 근접한 자치구는 비교적 비슷한 색상을 띄는 것을 확인할 수 있다.
 
 예외적으로 인근지역과 다른 색상을 띄는 자치구는 강북구와 금천구이다.
@@ -245,10 +184,10 @@
 가장 높은 점수를 차지한 두 자치구인 종로구와 중구는 서울의 중심지역임을 볼 수 있다.
 
 #### (2) 자치구별 점수 VS 공시지가
-![comparison1](https://user-images.githubusercontent.com/44727584/117565460-6187eb00-b0ec-11eb-9eda-56311f4eea1c.png)
+
 
 #### (3) 자치구별 점수 VS 임대주택 현황
-![comparison2](https://user-images.githubusercontent.com/44727584/117565610-17533980-b0ed-11eb-8bf8-b09bf360f89e.png)
+
 
 ## 4. Scaled_Dataset EDA
 
