@@ -87,7 +87,7 @@
  ```   
  
 - **데이터 타입 변환**   
-  - 수치형 데이터가 str 또는 object형으로 되어 있는 경우 int형으로 변환   
+  - 수치형 데이터가 str 또는 object형으로 되어 있는 경우 int형 또는 float형으로 변환   
  값에 쉼표(,)가 들어가 있을 경우 string형태가 되어 쉼표 제거 후 int형으로 변환해줌
  ```python
  data.replace(',','',regex=True).astype(int)
